@@ -1,0 +1,3 @@
+/* Keep this minimal; App.css contains most styling */
+html, body { margin: 0; }
+* { box-sizing: border-box; }
